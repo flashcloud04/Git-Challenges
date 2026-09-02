@@ -65,7 +65,7 @@ class Student:
 # ============================================================
 
 students = [
-    Student(101, "Ahmed", 20, "Python", 91),
+    Student(101, "Adnan", 20, "Python", 91),
     Student(102, "Sara", 21, "Cloud Computing", 84),
     Student(103, "Ali", 19, "Cyber Security", 76),
     Student(104, "Fatima", 22, "Data Science", 68),
