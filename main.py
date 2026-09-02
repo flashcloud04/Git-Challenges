@@ -50,7 +50,7 @@ class Student:
         }
 
     def display(self):
-        print("-" * 60)
+        print("-" * 70)
         print(f"Student ID : {self.student_id}")
         print(f"Name       : {self.name}")
         print(f"Age        : {self.age}")
