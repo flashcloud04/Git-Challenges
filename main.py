@@ -66,7 +66,7 @@ class Student:
 
 students = [
     Student(101, "Adnan", 20, "Python", 91),
-    Student(102, "Sara", 21, "Cloud Computing", 84),
+    Student(102, "zufi", 21, "Cloud Computing", 84),
     Student(103, "Ali", 19, "Cyber Security", 76),
     Student(104, "Fatima", 22, "Data Science", 68),
     Student(105, "Usman", 20, "Artificial Intelligence", 55),
